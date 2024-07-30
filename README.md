@@ -11,6 +11,6 @@
  ```
 
 ## 3. Upload any .ifc file 
-If you want to upload a new ifc-model, reload the website first.
-
+- If you want to upload a new ifc-model, reload the website first.
+- Feel free to use an example ifc-modell (/ifc_modells)
 
